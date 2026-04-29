@@ -3,10 +3,15 @@ Merhaba, ben Enes! 👋
 İstanbul Arel Üniversitesi Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Kariyerimi siber güvenlik alanında şekillendiriyor; ağ güvenliği, sistem analizi ve zafiyet tespiti konularında kendimi geliştiriyorum. Teknik altyapımı ve analitik düşünme becerilerimi kullanarak karmaşık sistemlerdeki açıkları tespit etmeyi ve yüksek performanslı, güvenli çözümler üretmeyi amaçlıyorum.
 
 🛠 Teknik Yetkinlikler
+
 💻 Programlama Dilleri
+
 Python
+
 Java Swing
+
 C / C++
+
 SQL
 
 🛡 Siber Güvenlik
