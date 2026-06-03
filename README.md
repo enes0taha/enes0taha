@@ -8,6 +8,10 @@ Merhaba, ben Enes! 👋
 
 Python
 
+HTML
+
+JAVASCRIPT
+
 Java Swing
 
 C / C++
